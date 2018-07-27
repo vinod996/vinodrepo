@@ -1,3 +1,1 @@
 This is my first file ...
-for fetch command
-for pull command
